@@ -1,0 +1,5 @@
+![Supervised vs Unsupervised Learning quiz](./quiz1_part1.png)
+![Supervised vs Unsupervised Learning quiz](./quiz1_part2.png)
+![Supervised vs Unsupervised Learning quiz](./quiz1_part3.png)
+![Supervised vs Unsupervised Learning quiz](./quiz1_part4.png)
+![Supervised vs Unsupervised Learning quiz](./quiz1_part5.png)
